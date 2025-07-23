@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="am">
+<head>
+  <meta charset="UTF-8">
+  <title>ጸጋና እምነት ቤተክርስቲያን</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <nav>
+    <a href="../index.html">English</a> | <a href="index.html">አማርኛ</a>
+  </nav>
+  <h1>እንኳን ደህና መጡ!</h1>
+  <p>በየእሑድ ማለዳ 4 ሰዓት (10:00 AM) ይቀላቀሉ።</p>
+</body>
+</html>

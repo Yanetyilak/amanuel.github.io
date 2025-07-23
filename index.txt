@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Grace Faith Church</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <nav>
+    <a href="index.html">English</a> | <a href="am/index.html">አማርኛ</a>
+  </nav>
+  <h1>Welcome to Grace Faith Church</h1>
+  <p>Join us every Sunday at 10:00 AM</p>
+</body>
+</html>
